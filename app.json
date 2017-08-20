@@ -1,7 +1,7 @@
 {
   "name": "Rulesbot",
   "description": "Rulesbot is GitHub's trending open-source page, reincarnated as a Slack Rules bot",
-  "repository": "https://github.com/moniqx4/spcrulesbot",
+  "repository": "https://github.com/moniqx4/spcrulesbot.git",
   "logo": "",
   "success_url": "/",
   "env": {
