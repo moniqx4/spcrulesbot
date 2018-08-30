@@ -13,13 +13,19 @@ let attachments = [
   {
     title: 'Running',
     color: '#2FA44F',
-    text: 'Required to run a minimum of 15 times per game from the RB/FB position.This does not include QB or WR run plays.\n',
+    text: 'Required to run a minimum of 12 times per game from the RB/FB position.This does not include QB or WR run plays.\n',
     mrkdwn_in: ['text']
   },
   {
     title: 'Running II',
     color: '#E3E4E6',
     text: 'Run in a realistic sim manner. Running directly straight across left or right is not realistic. Not done in real life, not done here.\n',
+    mrkdwn_in: ['text']
+  },
+   {
+    title: 'Running III',
+    color: '#E3E4E6',
+    text: 'Run assist feature must be DISABLED.\n',
     mrkdwn_in: ['text']
   }
 ]
