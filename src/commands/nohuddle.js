@@ -13,13 +13,19 @@ let attachments = [
   {
     title: 'No Huddle rules',
     color: '#2FA44F',
-    text: 'You can "no huddle" at any time in game.\n',
+    text: 'If down by 10 or more points you can "no huddle" at any time in game.\n',
     mrkdwn_in: ['text']
   },
   {
     title: 'No Huddle II rules',
     color: '#2FA44F',
     text: 'There is a maximum of 3 no huddles in a row then you must return to huddle, no matter the game situation.\n',
+    mrkdwn_in: ['text']
+  },
+  {
+    title: 'No Huddle III rules',
+    color: '#2FA44F',
+    text: 'No huddle is NOT allowed the last 2 min of the 2nd quarter.\n',
     mrkdwn_in: ['text']
   }
 ]
