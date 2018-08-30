@@ -19,13 +19,13 @@ let attachments = [
   {
     title: 'Playcalling II',
     color: '#2FA44F',
-    text: 'Defensive plays should be called that match with the offensive personnel and makes real football sense. For example, should not be calling Quarters defense when opponent is in redzone. \n',
+    text: 'Calling Goal Line offense and defense is permitted for the goal line on either end of the field, 3rd or 4th down with inches to go. \n',
     mrkdwn_in: ['text']
-  },
+  },   
    {
     title: 'Playcalling III',
     color: '#E3E4E6',
-    text: 'Using Coach suggestions for playcalling is NOT allowed. \n',
+    text: 'You should not have a total of 12 plays equaling the same concept used in single game. \n',
     mrkdwn_in: ['text']
   }
 ]
